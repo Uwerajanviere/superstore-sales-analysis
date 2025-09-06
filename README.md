@@ -34,7 +34,7 @@ Analyze retail sales data to uncover trends in sales, profit, discounts, and cus
 6. **Customer Segment Analysis**
    ![Customer Segment Analysis](charts/customer_segment_analysis.png)
 
-## Key Insights
+## Insights
 - High discounts reduce profitability.
 - Seasonality affects sales trends.
 - Focus on high-profit sub-categories and regions to maximize revenue.
