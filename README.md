@@ -16,22 +16,16 @@ Analyze retail sales data to uncover trends in sales, profit, discounts, and cus
 
 ## Analysis & Visualizations
 
-1. **Sales & Profit by Category**
    ![Sales & Profit by Category](charts/sales_profit_by_category.png)
 
-2. **Profit by Sub-Category**
    ![Profit by Sub-Category](charts/profit_by_subcategory.png)
 
-3. **Sales & Profit by Region**
    ![Sales & Profit by Region](charts/sales_profit_by_region.png)
 
-4. **Monthly Sales Trend**
    ![Monthly Sales Trend](charts/monthly_sales_trend.png)
 
-5. **Discount vs Profit**
    ![Discount vs Profit](charts/discount_vs_profit.png)
 
-6. **Customer Segment Analysis**
    ![Customer Segment Analysis](charts/customer_segment_analysis.png)
 
 ## Insights
